@@ -1,0 +1,7 @@
+numpy
+pandas
+numpy-financial
+scipy
+matplotlib
+openpyxl
+jupyter
