@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+*.key
+
+# Local course dataset (pending sharing permission)
+CRE_Data_SpringA2026.xlsx
+
+# Operating system files
+.DS_Store
+Thumbs.db
